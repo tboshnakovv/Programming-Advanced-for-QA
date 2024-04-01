@@ -1,0 +1,14 @@
+C:\Users\sanny\source\repos\14.11.23 Exercises Dictionaries, Lambda and LINQ\04. SoftUniParking\bin\Debug\net6.0\04. SoftUniParking.exe
+C:\Users\sanny\source\repos\14.11.23 Exercises Dictionaries, Lambda and LINQ\04. SoftUniParking\bin\Debug\net6.0\04. SoftUniParking.deps.json
+C:\Users\sanny\source\repos\14.11.23 Exercises Dictionaries, Lambda and LINQ\04. SoftUniParking\bin\Debug\net6.0\04. SoftUniParking.runtimeconfig.json
+C:\Users\sanny\source\repos\14.11.23 Exercises Dictionaries, Lambda and LINQ\04. SoftUniParking\bin\Debug\net6.0\04. SoftUniParking.dll
+C:\Users\sanny\source\repos\14.11.23 Exercises Dictionaries, Lambda and LINQ\04. SoftUniParking\bin\Debug\net6.0\04. SoftUniParking.pdb
+C:\Users\sanny\source\repos\14.11.23 Exercises Dictionaries, Lambda and LINQ\04. SoftUniParking\obj\Debug\net6.0\04. SoftUniParking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanny\source\repos\14.11.23 Exercises Dictionaries, Lambda and LINQ\04. SoftUniParking\obj\Debug\net6.0\04. SoftUniParking.AssemblyInfoInputs.cache
+C:\Users\sanny\source\repos\14.11.23 Exercises Dictionaries, Lambda and LINQ\04. SoftUniParking\obj\Debug\net6.0\04. SoftUniParking.AssemblyInfo.cs
+C:\Users\sanny\source\repos\14.11.23 Exercises Dictionaries, Lambda and LINQ\04. SoftUniParking\obj\Debug\net6.0\04. SoftUniParking.csproj.CoreCompileInputs.cache
+C:\Users\sanny\source\repos\14.11.23 Exercises Dictionaries, Lambda and LINQ\04. SoftUniParking\obj\Debug\net6.0\04. SoftUniParking.dll
+C:\Users\sanny\source\repos\14.11.23 Exercises Dictionaries, Lambda and LINQ\04. SoftUniParking\obj\Debug\net6.0\refint\04. SoftUniParking.dll
+C:\Users\sanny\source\repos\14.11.23 Exercises Dictionaries, Lambda and LINQ\04. SoftUniParking\obj\Debug\net6.0\04. SoftUniParking.pdb
+C:\Users\sanny\source\repos\14.11.23 Exercises Dictionaries, Lambda and LINQ\04. SoftUniParking\obj\Debug\net6.0\04. SoftUniParking.genruntimeconfig.cache
+C:\Users\sanny\source\repos\14.11.23 Exercises Dictionaries, Lambda and LINQ\04. SoftUniParking\obj\Debug\net6.0\ref\04. SoftUniParking.dll

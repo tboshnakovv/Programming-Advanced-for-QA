@@ -1,0 +1,14 @@
+C:\Users\sanny\source\repos\14.11.23 Exercises Dictionaries, Lambda and LINQ\02. AMinerTask\bin\Debug\net6.0\02. AMinerTask.exe
+C:\Users\sanny\source\repos\14.11.23 Exercises Dictionaries, Lambda and LINQ\02. AMinerTask\bin\Debug\net6.0\02. AMinerTask.deps.json
+C:\Users\sanny\source\repos\14.11.23 Exercises Dictionaries, Lambda and LINQ\02. AMinerTask\bin\Debug\net6.0\02. AMinerTask.runtimeconfig.json
+C:\Users\sanny\source\repos\14.11.23 Exercises Dictionaries, Lambda and LINQ\02. AMinerTask\bin\Debug\net6.0\02. AMinerTask.dll
+C:\Users\sanny\source\repos\14.11.23 Exercises Dictionaries, Lambda and LINQ\02. AMinerTask\bin\Debug\net6.0\02. AMinerTask.pdb
+C:\Users\sanny\source\repos\14.11.23 Exercises Dictionaries, Lambda and LINQ\02. AMinerTask\obj\Debug\net6.0\02. AMinerTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanny\source\repos\14.11.23 Exercises Dictionaries, Lambda and LINQ\02. AMinerTask\obj\Debug\net6.0\02. AMinerTask.AssemblyInfoInputs.cache
+C:\Users\sanny\source\repos\14.11.23 Exercises Dictionaries, Lambda and LINQ\02. AMinerTask\obj\Debug\net6.0\02. AMinerTask.AssemblyInfo.cs
+C:\Users\sanny\source\repos\14.11.23 Exercises Dictionaries, Lambda and LINQ\02. AMinerTask\obj\Debug\net6.0\02. AMinerTask.csproj.CoreCompileInputs.cache
+C:\Users\sanny\source\repos\14.11.23 Exercises Dictionaries, Lambda and LINQ\02. AMinerTask\obj\Debug\net6.0\02. AMinerTask.dll
+C:\Users\sanny\source\repos\14.11.23 Exercises Dictionaries, Lambda and LINQ\02. AMinerTask\obj\Debug\net6.0\refint\02. AMinerTask.dll
+C:\Users\sanny\source\repos\14.11.23 Exercises Dictionaries, Lambda and LINQ\02. AMinerTask\obj\Debug\net6.0\02. AMinerTask.pdb
+C:\Users\sanny\source\repos\14.11.23 Exercises Dictionaries, Lambda and LINQ\02. AMinerTask\obj\Debug\net6.0\02. AMinerTask.genruntimeconfig.cache
+C:\Users\sanny\source\repos\14.11.23 Exercises Dictionaries, Lambda and LINQ\02. AMinerTask\obj\Debug\net6.0\ref\02. AMinerTask.dll

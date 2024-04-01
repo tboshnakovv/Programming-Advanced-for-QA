@@ -1,0 +1,14 @@
+C:\Users\sanny\source\repos\14.11.23 Exercises Dictionaries, Lambda and LINQ\05. StudentAcademy\bin\Debug\net6.0\05. StudentAcademy.exe
+C:\Users\sanny\source\repos\14.11.23 Exercises Dictionaries, Lambda and LINQ\05. StudentAcademy\bin\Debug\net6.0\05. StudentAcademy.deps.json
+C:\Users\sanny\source\repos\14.11.23 Exercises Dictionaries, Lambda and LINQ\05. StudentAcademy\bin\Debug\net6.0\05. StudentAcademy.runtimeconfig.json
+C:\Users\sanny\source\repos\14.11.23 Exercises Dictionaries, Lambda and LINQ\05. StudentAcademy\bin\Debug\net6.0\05. StudentAcademy.dll
+C:\Users\sanny\source\repos\14.11.23 Exercises Dictionaries, Lambda and LINQ\05. StudentAcademy\bin\Debug\net6.0\05. StudentAcademy.pdb
+C:\Users\sanny\source\repos\14.11.23 Exercises Dictionaries, Lambda and LINQ\05. StudentAcademy\obj\Debug\net6.0\05. StudentAcademy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanny\source\repos\14.11.23 Exercises Dictionaries, Lambda and LINQ\05. StudentAcademy\obj\Debug\net6.0\05. StudentAcademy.AssemblyInfoInputs.cache
+C:\Users\sanny\source\repos\14.11.23 Exercises Dictionaries, Lambda and LINQ\05. StudentAcademy\obj\Debug\net6.0\05. StudentAcademy.AssemblyInfo.cs
+C:\Users\sanny\source\repos\14.11.23 Exercises Dictionaries, Lambda and LINQ\05. StudentAcademy\obj\Debug\net6.0\05. StudentAcademy.csproj.CoreCompileInputs.cache
+C:\Users\sanny\source\repos\14.11.23 Exercises Dictionaries, Lambda and LINQ\05. StudentAcademy\obj\Debug\net6.0\05. StudentAcademy.dll
+C:\Users\sanny\source\repos\14.11.23 Exercises Dictionaries, Lambda and LINQ\05. StudentAcademy\obj\Debug\net6.0\refint\05. StudentAcademy.dll
+C:\Users\sanny\source\repos\14.11.23 Exercises Dictionaries, Lambda and LINQ\05. StudentAcademy\obj\Debug\net6.0\05. StudentAcademy.pdb
+C:\Users\sanny\source\repos\14.11.23 Exercises Dictionaries, Lambda and LINQ\05. StudentAcademy\obj\Debug\net6.0\05. StudentAcademy.genruntimeconfig.cache
+C:\Users\sanny\source\repos\14.11.23 Exercises Dictionaries, Lambda and LINQ\05. StudentAcademy\obj\Debug\net6.0\ref\05. StudentAcademy.dll

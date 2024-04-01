@@ -1,0 +1,14 @@
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\25.11.23 Exercise Objects and Classes\01. Students\bin\Debug\net6.0\01. Students.exe
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\25.11.23 Exercise Objects and Classes\01. Students\bin\Debug\net6.0\01. Students.deps.json
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\25.11.23 Exercise Objects and Classes\01. Students\bin\Debug\net6.0\01. Students.runtimeconfig.json
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\25.11.23 Exercise Objects and Classes\01. Students\bin\Debug\net6.0\01. Students.dll
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\25.11.23 Exercise Objects and Classes\01. Students\bin\Debug\net6.0\01. Students.pdb
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\25.11.23 Exercise Objects and Classes\01. Students\obj\Debug\net6.0\01. Students.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\25.11.23 Exercise Objects and Classes\01. Students\obj\Debug\net6.0\01. Students.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\25.11.23 Exercise Objects and Classes\01. Students\obj\Debug\net6.0\01. Students.AssemblyInfo.cs
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\25.11.23 Exercise Objects and Classes\01. Students\obj\Debug\net6.0\01. Students.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\25.11.23 Exercise Objects and Classes\01. Students\obj\Debug\net6.0\01. Students.dll
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\25.11.23 Exercise Objects and Classes\01. Students\obj\Debug\net6.0\refint\01. Students.dll
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\25.11.23 Exercise Objects and Classes\01. Students\obj\Debug\net6.0\01. Students.pdb
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\25.11.23 Exercise Objects and Classes\01. Students\obj\Debug\net6.0\01. Students.genruntimeconfig.cache
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\25.11.23 Exercise Objects and Classes\01. Students\obj\Debug\net6.0\ref\01. Students.dll

@@ -1,0 +1,14 @@
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\01. SquareRoot\01. SquareRoot\bin\Debug\net6.0\01. SquareRoot.exe
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\01. SquareRoot\01. SquareRoot\bin\Debug\net6.0\01. SquareRoot.deps.json
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\01. SquareRoot\01. SquareRoot\bin\Debug\net6.0\01. SquareRoot.runtimeconfig.json
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\01. SquareRoot\01. SquareRoot\bin\Debug\net6.0\01. SquareRoot.dll
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\01. SquareRoot\01. SquareRoot\bin\Debug\net6.0\01. SquareRoot.pdb
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\01. SquareRoot\01. SquareRoot\obj\Debug\net6.0\01. SquareRoot.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\01. SquareRoot\01. SquareRoot\obj\Debug\net6.0\01. SquareRoot.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\01. SquareRoot\01. SquareRoot\obj\Debug\net6.0\01. SquareRoot.AssemblyInfo.cs
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\01. SquareRoot\01. SquareRoot\obj\Debug\net6.0\01. SquareRoot.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\01. SquareRoot\01. SquareRoot\obj\Debug\net6.0\01. SquareRoot.dll
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\01. SquareRoot\01. SquareRoot\obj\Debug\net6.0\refint\01. SquareRoot.dll
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\01. SquareRoot\01. SquareRoot\obj\Debug\net6.0\01. SquareRoot.pdb
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\01. SquareRoot\01. SquareRoot\obj\Debug\net6.0\01. SquareRoot.genruntimeconfig.cache
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\01. SquareRoot\01. SquareRoot\obj\Debug\net6.0\ref\01. SquareRoot.dll

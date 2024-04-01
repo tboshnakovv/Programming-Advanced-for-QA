@@ -1,0 +1,14 @@
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\05.12.23 OOP Principles Abstraction and Polymorphism\Shapes\bin\Debug\net6.0\Shapes.exe
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\05.12.23 OOP Principles Abstraction and Polymorphism\Shapes\bin\Debug\net6.0\Shapes.deps.json
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\05.12.23 OOP Principles Abstraction and Polymorphism\Shapes\bin\Debug\net6.0\Shapes.runtimeconfig.json
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\05.12.23 OOP Principles Abstraction and Polymorphism\Shapes\bin\Debug\net6.0\Shapes.dll
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\05.12.23 OOP Principles Abstraction and Polymorphism\Shapes\bin\Debug\net6.0\Shapes.pdb
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\05.12.23 OOP Principles Abstraction and Polymorphism\Shapes\obj\Debug\net6.0\Shapes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\05.12.23 OOP Principles Abstraction and Polymorphism\Shapes\obj\Debug\net6.0\Shapes.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\05.12.23 OOP Principles Abstraction and Polymorphism\Shapes\obj\Debug\net6.0\Shapes.AssemblyInfo.cs
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\05.12.23 OOP Principles Abstraction and Polymorphism\Shapes\obj\Debug\net6.0\Shapes.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\05.12.23 OOP Principles Abstraction and Polymorphism\Shapes\obj\Debug\net6.0\Shapes.dll
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\05.12.23 OOP Principles Abstraction and Polymorphism\Shapes\obj\Debug\net6.0\refint\Shapes.dll
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\05.12.23 OOP Principles Abstraction and Polymorphism\Shapes\obj\Debug\net6.0\Shapes.pdb
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\05.12.23 OOP Principles Abstraction and Polymorphism\Shapes\obj\Debug\net6.0\Shapes.genruntimeconfig.cache
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\05.12.23 OOP Principles Abstraction and Polymorphism\Shapes\obj\Debug\net6.0\ref\Shapes.dll

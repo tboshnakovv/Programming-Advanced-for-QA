@@ -1,0 +1,14 @@
+C:\Users\sanny\source\repos\07.11.23 Regular Expressions\01. MatchFullName\bin\Debug\net6.0\01. MatchFullName.exe
+C:\Users\sanny\source\repos\07.11.23 Regular Expressions\01. MatchFullName\bin\Debug\net6.0\01. MatchFullName.deps.json
+C:\Users\sanny\source\repos\07.11.23 Regular Expressions\01. MatchFullName\bin\Debug\net6.0\01. MatchFullName.runtimeconfig.json
+C:\Users\sanny\source\repos\07.11.23 Regular Expressions\01. MatchFullName\bin\Debug\net6.0\01. MatchFullName.dll
+C:\Users\sanny\source\repos\07.11.23 Regular Expressions\01. MatchFullName\bin\Debug\net6.0\01. MatchFullName.pdb
+C:\Users\sanny\source\repos\07.11.23 Regular Expressions\01. MatchFullName\obj\Debug\net6.0\01. MatchFullName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanny\source\repos\07.11.23 Regular Expressions\01. MatchFullName\obj\Debug\net6.0\01. MatchFullName.AssemblyInfoInputs.cache
+C:\Users\sanny\source\repos\07.11.23 Regular Expressions\01. MatchFullName\obj\Debug\net6.0\01. MatchFullName.AssemblyInfo.cs
+C:\Users\sanny\source\repos\07.11.23 Regular Expressions\01. MatchFullName\obj\Debug\net6.0\01. MatchFullName.csproj.CoreCompileInputs.cache
+C:\Users\sanny\source\repos\07.11.23 Regular Expressions\01. MatchFullName\obj\Debug\net6.0\01. MatchFullName.dll
+C:\Users\sanny\source\repos\07.11.23 Regular Expressions\01. MatchFullName\obj\Debug\net6.0\refint\01. MatchFullName.dll
+C:\Users\sanny\source\repos\07.11.23 Regular Expressions\01. MatchFullName\obj\Debug\net6.0\01. MatchFullName.pdb
+C:\Users\sanny\source\repos\07.11.23 Regular Expressions\01. MatchFullName\obj\Debug\net6.0\01. MatchFullName.genruntimeconfig.cache
+C:\Users\sanny\source\repos\07.11.23 Regular Expressions\01. MatchFullName\obj\Debug\net6.0\ref\01. MatchFullName.dll

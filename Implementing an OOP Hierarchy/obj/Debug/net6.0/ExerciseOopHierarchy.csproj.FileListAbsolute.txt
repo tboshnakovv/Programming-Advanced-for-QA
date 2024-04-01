@@ -1,0 +1,14 @@
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\07.12.23 Exercises Implementing an OOP Hierarchy\bin\Debug\net6.0\ExerciseOopHierarchy.exe
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\07.12.23 Exercises Implementing an OOP Hierarchy\bin\Debug\net6.0\ExerciseOopHierarchy.deps.json
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\07.12.23 Exercises Implementing an OOP Hierarchy\bin\Debug\net6.0\ExerciseOopHierarchy.runtimeconfig.json
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\07.12.23 Exercises Implementing an OOP Hierarchy\bin\Debug\net6.0\ExerciseOopHierarchy.dll
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\07.12.23 Exercises Implementing an OOP Hierarchy\bin\Debug\net6.0\ExerciseOopHierarchy.pdb
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\07.12.23 Exercises Implementing an OOP Hierarchy\obj\Debug\net6.0\ExerciseOopHierarchy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\07.12.23 Exercises Implementing an OOP Hierarchy\obj\Debug\net6.0\ExerciseOopHierarchy.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\07.12.23 Exercises Implementing an OOP Hierarchy\obj\Debug\net6.0\ExerciseOopHierarchy.AssemblyInfo.cs
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\07.12.23 Exercises Implementing an OOP Hierarchy\obj\Debug\net6.0\ExerciseOopHierarchy.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\07.12.23 Exercises Implementing an OOP Hierarchy\obj\Debug\net6.0\ExerciseOopHierarchy.dll
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\07.12.23 Exercises Implementing an OOP Hierarchy\obj\Debug\net6.0\refint\ExerciseOopHierarchy.dll
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\07.12.23 Exercises Implementing an OOP Hierarchy\obj\Debug\net6.0\ExerciseOopHierarchy.pdb
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\07.12.23 Exercises Implementing an OOP Hierarchy\obj\Debug\net6.0\ExerciseOopHierarchy.genruntimeconfig.cache
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\07.12.23 Exercises Implementing an OOP Hierarchy\obj\Debug\net6.0\ref\ExerciseOopHierarchy.dll

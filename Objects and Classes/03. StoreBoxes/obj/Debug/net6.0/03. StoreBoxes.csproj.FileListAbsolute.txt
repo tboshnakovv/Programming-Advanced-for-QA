@@ -1,0 +1,14 @@
+C:\Users\sanny\source\repos\20.11.23 Objects and Classes\03. StoreBoxes\bin\Debug\net6.0\03. StoreBoxes.exe
+C:\Users\sanny\source\repos\20.11.23 Objects and Classes\03. StoreBoxes\bin\Debug\net6.0\03. StoreBoxes.deps.json
+C:\Users\sanny\source\repos\20.11.23 Objects and Classes\03. StoreBoxes\bin\Debug\net6.0\03. StoreBoxes.runtimeconfig.json
+C:\Users\sanny\source\repos\20.11.23 Objects and Classes\03. StoreBoxes\bin\Debug\net6.0\03. StoreBoxes.dll
+C:\Users\sanny\source\repos\20.11.23 Objects and Classes\03. StoreBoxes\bin\Debug\net6.0\03. StoreBoxes.pdb
+C:\Users\sanny\source\repos\20.11.23 Objects and Classes\03. StoreBoxes\obj\Debug\net6.0\03. StoreBoxes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanny\source\repos\20.11.23 Objects and Classes\03. StoreBoxes\obj\Debug\net6.0\03. StoreBoxes.AssemblyInfoInputs.cache
+C:\Users\sanny\source\repos\20.11.23 Objects and Classes\03. StoreBoxes\obj\Debug\net6.0\03. StoreBoxes.AssemblyInfo.cs
+C:\Users\sanny\source\repos\20.11.23 Objects and Classes\03. StoreBoxes\obj\Debug\net6.0\03. StoreBoxes.csproj.CoreCompileInputs.cache
+C:\Users\sanny\source\repos\20.11.23 Objects and Classes\03. StoreBoxes\obj\Debug\net6.0\03. StoreBoxes.dll
+C:\Users\sanny\source\repos\20.11.23 Objects and Classes\03. StoreBoxes\obj\Debug\net6.0\refint\03. StoreBoxes.dll
+C:\Users\sanny\source\repos\20.11.23 Objects and Classes\03. StoreBoxes\obj\Debug\net6.0\03. StoreBoxes.pdb
+C:\Users\sanny\source\repos\20.11.23 Objects and Classes\03. StoreBoxes\obj\Debug\net6.0\03. StoreBoxes.genruntimeconfig.cache
+C:\Users\sanny\source\repos\20.11.23 Objects and Classes\03. StoreBoxes\obj\Debug\net6.0\ref\03. StoreBoxes.dll

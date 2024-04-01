@@ -1,0 +1,14 @@
+C:\Users\sanny\source\repos\14.11.23 Exercises Dictionaries, Lambda and LINQ\06. CompanyUsers\bin\Debug\net6.0\06. CompanyUsers.exe
+C:\Users\sanny\source\repos\14.11.23 Exercises Dictionaries, Lambda and LINQ\06. CompanyUsers\bin\Debug\net6.0\06. CompanyUsers.deps.json
+C:\Users\sanny\source\repos\14.11.23 Exercises Dictionaries, Lambda and LINQ\06. CompanyUsers\bin\Debug\net6.0\06. CompanyUsers.runtimeconfig.json
+C:\Users\sanny\source\repos\14.11.23 Exercises Dictionaries, Lambda and LINQ\06. CompanyUsers\bin\Debug\net6.0\06. CompanyUsers.dll
+C:\Users\sanny\source\repos\14.11.23 Exercises Dictionaries, Lambda and LINQ\06. CompanyUsers\bin\Debug\net6.0\06. CompanyUsers.pdb
+C:\Users\sanny\source\repos\14.11.23 Exercises Dictionaries, Lambda and LINQ\06. CompanyUsers\obj\Debug\net6.0\06. CompanyUsers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanny\source\repos\14.11.23 Exercises Dictionaries, Lambda and LINQ\06. CompanyUsers\obj\Debug\net6.0\06. CompanyUsers.AssemblyInfoInputs.cache
+C:\Users\sanny\source\repos\14.11.23 Exercises Dictionaries, Lambda and LINQ\06. CompanyUsers\obj\Debug\net6.0\06. CompanyUsers.AssemblyInfo.cs
+C:\Users\sanny\source\repos\14.11.23 Exercises Dictionaries, Lambda and LINQ\06. CompanyUsers\obj\Debug\net6.0\06. CompanyUsers.csproj.CoreCompileInputs.cache
+C:\Users\sanny\source\repos\14.11.23 Exercises Dictionaries, Lambda and LINQ\06. CompanyUsers\obj\Debug\net6.0\06. CompanyUsers.dll
+C:\Users\sanny\source\repos\14.11.23 Exercises Dictionaries, Lambda and LINQ\06. CompanyUsers\obj\Debug\net6.0\refint\06. CompanyUsers.dll
+C:\Users\sanny\source\repos\14.11.23 Exercises Dictionaries, Lambda and LINQ\06. CompanyUsers\obj\Debug\net6.0\06. CompanyUsers.pdb
+C:\Users\sanny\source\repos\14.11.23 Exercises Dictionaries, Lambda and LINQ\06. CompanyUsers\obj\Debug\net6.0\06. CompanyUsers.genruntimeconfig.cache
+C:\Users\sanny\source\repos\14.11.23 Exercises Dictionaries, Lambda and LINQ\06. CompanyUsers\obj\Debug\net6.0\ref\06. CompanyUsers.dll

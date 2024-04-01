@@ -1,0 +1,14 @@
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\01. SquareRoot\02. EnterNumbers\bin\Debug\net6.0\02. EnterNumbers.exe
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\01. SquareRoot\02. EnterNumbers\bin\Debug\net6.0\02. EnterNumbers.deps.json
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\01. SquareRoot\02. EnterNumbers\bin\Debug\net6.0\02. EnterNumbers.runtimeconfig.json
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\01. SquareRoot\02. EnterNumbers\bin\Debug\net6.0\02. EnterNumbers.dll
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\01. SquareRoot\02. EnterNumbers\bin\Debug\net6.0\02. EnterNumbers.pdb
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\01. SquareRoot\02. EnterNumbers\obj\Debug\net6.0\02. EnterNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\01. SquareRoot\02. EnterNumbers\obj\Debug\net6.0\02. EnterNumbers.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\01. SquareRoot\02. EnterNumbers\obj\Debug\net6.0\02. EnterNumbers.AssemblyInfo.cs
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\01. SquareRoot\02. EnterNumbers\obj\Debug\net6.0\02. EnterNumbers.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\01. SquareRoot\02. EnterNumbers\obj\Debug\net6.0\02. EnterNumbers.dll
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\01. SquareRoot\02. EnterNumbers\obj\Debug\net6.0\refint\02. EnterNumbers.dll
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\01. SquareRoot\02. EnterNumbers\obj\Debug\net6.0\02. EnterNumbers.pdb
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\01. SquareRoot\02. EnterNumbers\obj\Debug\net6.0\02. EnterNumbers.genruntimeconfig.cache
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\01. SquareRoot\02. EnterNumbers\obj\Debug\net6.0\ref\02. EnterNumbers.dll

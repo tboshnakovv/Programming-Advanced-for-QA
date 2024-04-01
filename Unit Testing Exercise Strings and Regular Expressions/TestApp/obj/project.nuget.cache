@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZGshV0gLN4/VGi55oeohyTvPQhGWd3hDsTaWsKx2bkFMiON3/wAlmN6+x93deNAcVuoU1prJo+FHK9J/zejEmg==",
+  "success": true,
+  "projectFilePath": "D:\\Visual Studio Projects\\Programming Advanced for QA - November 2023\\09.11.23 Unit Testing Exercise Strings and Regular Expressions\\TestApp\\TestApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sanny\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\sanny\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\sanny\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\05.12.23 OOP Principles Abstraction and Polymorphism\Raiding\bin\Debug\net6.0\Raiding.exe
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\05.12.23 OOP Principles Abstraction and Polymorphism\Raiding\bin\Debug\net6.0\Raiding.deps.json
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\05.12.23 OOP Principles Abstraction and Polymorphism\Raiding\bin\Debug\net6.0\Raiding.runtimeconfig.json
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\05.12.23 OOP Principles Abstraction and Polymorphism\Raiding\bin\Debug\net6.0\Raiding.dll
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\05.12.23 OOP Principles Abstraction and Polymorphism\Raiding\bin\Debug\net6.0\Raiding.pdb
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\05.12.23 OOP Principles Abstraction and Polymorphism\Raiding\obj\Debug\net6.0\Raiding.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\05.12.23 OOP Principles Abstraction and Polymorphism\Raiding\obj\Debug\net6.0\Raiding.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\05.12.23 OOP Principles Abstraction and Polymorphism\Raiding\obj\Debug\net6.0\Raiding.AssemblyInfo.cs
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\05.12.23 OOP Principles Abstraction and Polymorphism\Raiding\obj\Debug\net6.0\Raiding.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\05.12.23 OOP Principles Abstraction and Polymorphism\Raiding\obj\Debug\net6.0\Raiding.dll
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\05.12.23 OOP Principles Abstraction and Polymorphism\Raiding\obj\Debug\net6.0\refint\Raiding.dll
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\05.12.23 OOP Principles Abstraction and Polymorphism\Raiding\obj\Debug\net6.0\Raiding.pdb
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\05.12.23 OOP Principles Abstraction and Polymorphism\Raiding\obj\Debug\net6.0\Raiding.genruntimeconfig.cache
+D:\Visual Studio Projects\Programming Advanced for QA - November 2023\05.12.23 OOP Principles Abstraction and Polymorphism\Raiding\obj\Debug\net6.0\ref\Raiding.dll

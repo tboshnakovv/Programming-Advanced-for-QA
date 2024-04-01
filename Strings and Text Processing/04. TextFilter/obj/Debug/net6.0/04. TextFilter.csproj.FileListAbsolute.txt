@@ -1,0 +1,14 @@
+C:\Users\sanny\source\repos\11 .11.23 Strings and Text Processing\04. TextFilter\bin\Debug\net6.0\04. TextFilter.exe
+C:\Users\sanny\source\repos\11 .11.23 Strings and Text Processing\04. TextFilter\bin\Debug\net6.0\04. TextFilter.deps.json
+C:\Users\sanny\source\repos\11 .11.23 Strings and Text Processing\04. TextFilter\bin\Debug\net6.0\04. TextFilter.runtimeconfig.json
+C:\Users\sanny\source\repos\11 .11.23 Strings and Text Processing\04. TextFilter\bin\Debug\net6.0\04. TextFilter.dll
+C:\Users\sanny\source\repos\11 .11.23 Strings and Text Processing\04. TextFilter\bin\Debug\net6.0\04. TextFilter.pdb
+C:\Users\sanny\source\repos\11 .11.23 Strings and Text Processing\04. TextFilter\obj\Debug\net6.0\04. TextFilter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanny\source\repos\11 .11.23 Strings and Text Processing\04. TextFilter\obj\Debug\net6.0\04. TextFilter.AssemblyInfoInputs.cache
+C:\Users\sanny\source\repos\11 .11.23 Strings and Text Processing\04. TextFilter\obj\Debug\net6.0\04. TextFilter.AssemblyInfo.cs
+C:\Users\sanny\source\repos\11 .11.23 Strings and Text Processing\04. TextFilter\obj\Debug\net6.0\04. TextFilter.csproj.CoreCompileInputs.cache
+C:\Users\sanny\source\repos\11 .11.23 Strings and Text Processing\04. TextFilter\obj\Debug\net6.0\04. TextFilter.dll
+C:\Users\sanny\source\repos\11 .11.23 Strings and Text Processing\04. TextFilter\obj\Debug\net6.0\refint\04. TextFilter.dll
+C:\Users\sanny\source\repos\11 .11.23 Strings and Text Processing\04. TextFilter\obj\Debug\net6.0\04. TextFilter.pdb
+C:\Users\sanny\source\repos\11 .11.23 Strings and Text Processing\04. TextFilter\obj\Debug\net6.0\04. TextFilter.genruntimeconfig.cache
+C:\Users\sanny\source\repos\11 .11.23 Strings and Text Processing\04. TextFilter\obj\Debug\net6.0\ref\04. TextFilter.dll

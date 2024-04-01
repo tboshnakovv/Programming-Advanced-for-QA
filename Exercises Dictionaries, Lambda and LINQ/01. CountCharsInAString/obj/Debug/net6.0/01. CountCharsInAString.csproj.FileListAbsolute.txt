@@ -1,0 +1,14 @@
+C:\Users\sanny\source\repos\14.11.23 Exercises Dictionaries, Lambda and LINQ\01. CountCharsInAString\bin\Debug\net6.0\01. CountCharsInAString.exe
+C:\Users\sanny\source\repos\14.11.23 Exercises Dictionaries, Lambda and LINQ\01. CountCharsInAString\bin\Debug\net6.0\01. CountCharsInAString.deps.json
+C:\Users\sanny\source\repos\14.11.23 Exercises Dictionaries, Lambda and LINQ\01. CountCharsInAString\bin\Debug\net6.0\01. CountCharsInAString.runtimeconfig.json
+C:\Users\sanny\source\repos\14.11.23 Exercises Dictionaries, Lambda and LINQ\01. CountCharsInAString\bin\Debug\net6.0\01. CountCharsInAString.dll
+C:\Users\sanny\source\repos\14.11.23 Exercises Dictionaries, Lambda and LINQ\01. CountCharsInAString\bin\Debug\net6.0\01. CountCharsInAString.pdb
+C:\Users\sanny\source\repos\14.11.23 Exercises Dictionaries, Lambda and LINQ\01. CountCharsInAString\obj\Debug\net6.0\01. CountCharsInAString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanny\source\repos\14.11.23 Exercises Dictionaries, Lambda and LINQ\01. CountCharsInAString\obj\Debug\net6.0\01. CountCharsInAString.AssemblyInfoInputs.cache
+C:\Users\sanny\source\repos\14.11.23 Exercises Dictionaries, Lambda and LINQ\01. CountCharsInAString\obj\Debug\net6.0\01. CountCharsInAString.AssemblyInfo.cs
+C:\Users\sanny\source\repos\14.11.23 Exercises Dictionaries, Lambda and LINQ\01. CountCharsInAString\obj\Debug\net6.0\01. CountCharsInAString.csproj.CoreCompileInputs.cache
+C:\Users\sanny\source\repos\14.11.23 Exercises Dictionaries, Lambda and LINQ\01. CountCharsInAString\obj\Debug\net6.0\01. CountCharsInAString.dll
+C:\Users\sanny\source\repos\14.11.23 Exercises Dictionaries, Lambda and LINQ\01. CountCharsInAString\obj\Debug\net6.0\refint\01. CountCharsInAString.dll
+C:\Users\sanny\source\repos\14.11.23 Exercises Dictionaries, Lambda and LINQ\01. CountCharsInAString\obj\Debug\net6.0\01. CountCharsInAString.pdb
+C:\Users\sanny\source\repos\14.11.23 Exercises Dictionaries, Lambda and LINQ\01. CountCharsInAString\obj\Debug\net6.0\01. CountCharsInAString.genruntimeconfig.cache
+C:\Users\sanny\source\repos\14.11.23 Exercises Dictionaries, Lambda and LINQ\01. CountCharsInAString\obj\Debug\net6.0\ref\01. CountCharsInAString.dll
